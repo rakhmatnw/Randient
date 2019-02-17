@@ -6,4 +6,4 @@ Demo: [Click Here](https://rakhmatnw.github.io/Randient/)
 ### Built with:
 * HTML
 * CSS
-* JavaScript
+* Vanilla JavaScript
